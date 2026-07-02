@@ -2,10 +2,8 @@
   "name": "mnanimat-next-store",
   "version": "1.0.0",
   "private": true,
-  "packageManager": "npm@10.9.2",
   "engines": {
-    "node": "22.x",
-    "npm": "10.x"
+    "node": "20.x"
   },
   "scripts": {
     "dev": "next dev",
